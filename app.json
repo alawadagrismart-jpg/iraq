@@ -1,18 +1,18 @@
 {
   "expo": {
-    "name": "Ayn-Iraq Virtual Bridge",
-    "slug": "ghost-identity-engine",
+    "name": "عين العراق",
+    "slug": "ayn-alaraq-",
     "version": "1.0.0",
     "owner": "ahmed92921s-organization",
-    "updates": {
-      "url": "https://u.expo.dev/02c9e483-c89f-4509-ab30-265580c8bff7"
-    },
     "runtimeVersion": {
       "policy": "appVersion"
     },
+    "updates": {
+      "url": "https://u.expo.dev/00708196-5858-4e55-bfe2-8caf3f493b58"
+    },
     "extra": {
       "eas": {
-        "projectId": "02c9e483-c89f-4509-ab30-265580c8bff7"
+        "projectId": "00708196-5858-4e55-bfe2-8caf3f493b58"
       }
     },
     "android": {
